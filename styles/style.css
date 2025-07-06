@@ -1,0 +1,26 @@
+ul {
+   list-style-type: none;
+   display: flex;
+   gap: 20px;
+}
+ul > li> a {
+   text-decoration: none;
+   color:black;
+   background-color: rgb(158, 98, 123);
+   border: 5px solid lightgreen;
+   border-radius: 5px;
+padding: 5px;
+}
+
+.website {
+   border:5px solid lightseagreen ;
+   box-shadow: 3px 3px 3px magenta;
+}
+.log {
+background-color: lightsalmon;
+border: 3px solid lightslategrey;
+border-radius: 5px;
+padding: 3px;
+box-shadow: 3px 3px 3px lightseagreen;
+font-size: 20px
+}
